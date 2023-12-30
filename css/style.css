@@ -90,6 +90,7 @@ color: #2E2F42;
     line-height: 1.5;
     letter-spacing: 0.02em;
     gap: 40px;
+    padding: 24px 0
 }
 
 .header-menu-link:hover {
@@ -305,7 +306,7 @@ color: #2E2F42;
     padding: 32px 16px;
     border: 1px solid #e7e9fc;
     border-top: none;
-    margin-bottom: 8px
+    margin-bottom: 8px;
 }
 
 .portfolio-subtitle {
